@@ -43,9 +43,6 @@
 <link rel='stylesheet' id='responsive-css'  href='http://wastun.jetzt/wp-content/themes/firmness/css/responsive.css?ver=4.1' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-css'  href='http://wastun.jetzt/wp-content/themes/firmness/css/font-awesome.css?ver=4.1' type='text/css' media='all' />
 <link rel='stylesheet' id='animate-css'  href='http://wastun.jetzt/wp-content/themes/firmness/css/animate.css?ver=4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='body-font-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='menu-font-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='logo-font-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Cgreek-ext%2Ccyrillic%2Clatin-ext%2Cgreek%2Ccyrillic-ext%2Cvietnamese&#038;ver=4.1' type='text/css' media='all' />
 <script type='text/javascript' src='http://wastun.jetzt/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
 <script type='text/javascript' src='http://wastun.jetzt/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
 <script type='text/javascript' src='http://wastun.jetzt/wp-content/themes/firmness/js/superfish.js?ver=4.1'></script>
