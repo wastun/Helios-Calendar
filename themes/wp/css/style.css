@@ -68,7 +68,7 @@ section .hc_loc {background-image:url(../../../img/icons/card.png);}
 section ul {list-style:none;margin:5px 5px 5px 0;padding:2px;}
 li {line-height:18px;}
 article li {margin:2px 0 3px 0;}
-.catCol{float:left;width:200px;}
+.catCol{float:left;width:220px;}
 .catCol label {clear:both;padding:0;text-align:left;width:100%}
 .catCol label input {margin:3px 20px 3px 0;padding:0;}
 .catCol label.sub input {margin:3px 20px 3px 20px;padding:0;}
